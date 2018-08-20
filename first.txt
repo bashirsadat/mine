@@ -6,7 +6,12 @@ this the second changes that i bring to the file created initilly
 
 
 
+this is the third changes to see how git works
+
+
+
 this the final draft
+
 
 
 thank you
